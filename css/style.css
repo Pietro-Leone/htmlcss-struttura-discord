@@ -76,14 +76,14 @@ nav li{
     align-items: center;
 }
 
-.top .block-l{
+.top .block-l , .bottom .block-l{
     width: 550px;
     height: 450px;
     background-color: #1e90ff;
     border: 2px dashed black;
 }
 
-.top .block-r{
+.top .block-r , .bottom .block-r{
     width: 350px;
     height: 450px;
     background-color: #ffc0cb;
@@ -106,20 +106,6 @@ nav li{
 
 .middle{
     background-color: #d3d3d3;
-}
-
-.bottom .block-l{
-    width: 550px;
-    height: 450px;
-    background-color: #1e90ff;
-    border: 2px dashed black;
-}
-
-.bottom .block-r{
-    width: 350px;
-    height: 450px;
-    background-color: #ffc0cb;
-    border: 2px dashed black;
 }
 
 .final-box{
