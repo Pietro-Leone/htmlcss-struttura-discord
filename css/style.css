@@ -9,14 +9,14 @@
 }
 
 header{
-    background-color: aqua;
+    background-color: #add8e6;
     padding-top: 10px;
 }
 
 .nav-bar{
     width: 1000px;
     height: 40px;
-    background-color: orange;
+    background-color: #daa520;
     margin: auto;
     margin-bottom: 10px;
     justify-content: space-between;
@@ -56,7 +56,7 @@ nav li{
 }
 
 .header-box{
-    background-color: blue;
+    background-color: #00008b;
     width: 100%;
     height: 100%;
     justify-content: center;
@@ -64,7 +64,7 @@ nav li{
 }
 
 .block{
-    background-color: pink;
+    background-color: #ee82ee;
     width: 800px;
     height: 400px;
     margin: 40px;
@@ -79,46 +79,46 @@ nav li{
 .top .block-l{
     width: 550px;
     height: 450px;
-    background-color: cornflowerblue;
+    background-color: #1e90ff;
     border: 2px dashed black;
 }
 
 .top .block-r{
     width: 350px;
     height: 450px;
-    background-color: red;
+    background-color: #ffc0cb;
     border: 2px dashed black;
 }
 
 .middle .block-r{
     width: 550px;
     height: 450px;
-    background-color: cornflowerblue;
+    background-color: #1e90ff;
     border: 2px dashed black;
 }
 
 .middle .block-l{
     width: 350px;
     height: 450px;
-    background-color: red;
+    background-color: #ffc0cb;
     border: 2px dashed black;
 }
 
 .middle{
-    background-color: lightgray;
+    background-color: #d3d3d3;
 }
 
 .bottom .block-l{
     width: 550px;
     height: 450px;
-    background-color: cornflowerblue;
+    background-color: #1e90ff;
     border: 2px dashed black;
 }
 
 .bottom .block-r{
     width: 350px;
     height: 450px;
-    background-color: red;
+    background-color: #ffc0cb;
     border: 2px dashed black;
 }
 
@@ -126,7 +126,7 @@ nav li{
     height: 900px;
     justify-content: center;
     align-items: center;
-    background-color: lightgray;
+    background-color: #d3d3d3;
 }
 
 .final-block{
@@ -137,7 +137,7 @@ nav li{
 }
 
 footer{
-    background-color: gray;
+    background-color: #23272a;
 }
 
 .top-footer{
@@ -150,14 +150,14 @@ footer{
 .red-block{
     width: 300px;
     height: 500px;
-    background-color: red;
+    background-color: #f08080;
     border: 2px dashed black;
 }
 
 .footer-block{
     width: 150px;
     height: 500px;
-    background-color: green;
+    background-color: #20b2aa;
     border: 2px dashed black;
 }
 
@@ -168,7 +168,7 @@ footer{
 .footer-container{
     width: 900px;
     height: 50px;
-    background-color: green;
+    background-color: #7fffd4;
     margin: auto;
     justify-content: space-between;
     align-items: center;
@@ -177,13 +177,13 @@ footer{
 .footer-container .logo{
     border: 2px dashed black;
     height: 30px;
-    background-color: brown;
+    background-color: #ffb6c1;
     padding: 2px;
 }
 
 .footer-container .button{
     border: 2px dashed black;
     height: 30px;
-    background-color: brown;
+    background-color: #ffb6c1;
     padding: 2px;
 }
